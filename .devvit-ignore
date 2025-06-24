@@ -1,0 +1,7 @@
+# Ignore update check errors
+node_modules/
+dist/
+webroot/
+.env
+*.log
+.DS_Store
